@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Image+Processor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Batch+Image+Processing-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 ImBatch Free Installer** — ImBatch is a free Windows batch image processing tool with a visual task pipeline. Works without internet access, no account required. Full offline installation.
+**💻 ImBatch Free Installer** — ImBatch is a free, powerful batch image processing application for Windows. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About ImBatch
 
-ImBatch is a free Windows batch image processing tool with a visual task pipeline. It supports resizing, watermarking, format conversion, color adjustments, metadata editing, and dozens of other operations applied to thousands of images simultaneously.
+ImBatch is a free, powerful batch image processing application for Windows. Apply tasks like resizing, cropping, watermarking, converting formats, adjusting color, and renaming to hundreds or thousands of images automatically. With a visual task builder and support for dozens of image formats, ImBatch dramatically speeds up repetitive image editing workflows for photographers and designers.
 
 ---
 
 ## ❌ Problem: ImBatch is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **Complex Interface** — Task pipeline visual editor has a learning curve
-- **Performance** — Processing very large image batches takes significant time
-- **Limited RAW Support** — RAW camera file handling less comprehensive than dedicated RAW tools
+- **Windows Only** — No macOS or Linux version
+- **Learning Curve** — Task builder requires understanding of available operations and their order
+- **Preview Limitations** — Batch preview requires processing sample images
+- **Complex Task Chains** — Very complex processing chains can be difficult to debug
 
 ---
 
@@ -121,7 +121,7 @@ ImBatch is a free Windows batch image processing tool with a visual task pipelin
 
 ---
 
-**ImBatch Free Installer** — ImBatch is a free Windows batch image processing tool with a visual task pipeline. Install without internet connection today!
+**ImBatch Free Installer** — ImBatch is a free, powerful batch image processing application for Windows. Install without internet connection today!
 
 <div align="center">
 
